@@ -11,7 +11,8 @@ Error text:
 
 Screenshot #1 (Part B launch error, user name visible):
 
-![Part B launch error](screenshots/01-partb-launch-error.png)
+<img width="907" height="943" alt="Screenshot 2026-09-24 224020" src="https://github.com/user-attachments/assets/923eaace-16e7-41db-b3de-a44d3da2e66e" />
+
 
 ## Part C. The three blanks in `RunOnlyT3MicroInstances`
 
@@ -27,7 +28,8 @@ Policy name: `acsad-g06-launch`
 
 Screenshot #2 (Permissions tab listing `acsad-g06-launch`):
 
-![Permissions tab](screenshots/02-permissions-tab.png)
+<img width="768" height="291" alt="image" src="https://github.com/user-attachments/assets/68fcf5bd-ec6e-45d0-ac25-67e4f56cc460" />
+
 
 Security group creation without the `team` tag (denied):
 
@@ -39,7 +41,8 @@ Instance Running at: TODO (time)
 
 Screenshot #3 (instance in Running state):
 
-![Instance running](screenshots/03-instance-running.png)
+<img width="973" height="544" alt="Screenshot 2026-09-24 225633" src="https://github.com/user-attachments/assets/ff32f605-3985-4048-b3f3-d82dfffc2474" />
+
 
 ## Part E. Boundary test
 
@@ -63,7 +66,8 @@ CloudTrail `errorMessage` (`RunInstances`, `Client.UnauthorizedOperation`):
 
 Screenshot #5 (CloudTrail event with `errorMessage`):
 
-![CloudTrail event](screenshots/05-cloudtrail.png)
+<img width="1228" height="946" alt="Screenshot 2026-09-24 225534" src="https://github.com/user-attachments/assets/2b780aa1-e786-4de1-928b-09b95def7909" />
+
 
 ## Part F. Questions
 
